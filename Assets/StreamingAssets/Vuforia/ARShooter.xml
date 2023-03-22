@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="horde" size="3.000000 3.000000" />
+    <ImageTarget name="alaens" size="3.000000 3.000000" />
+  </Tracking>
+</QCARConfig>
